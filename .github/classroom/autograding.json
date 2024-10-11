@@ -20,7 +20,7 @@
       "timeout": 10,
       "points": 10
     },
-    {
+	{
       "name": "Jurnal02a",
       "setup": "javac Jurnal02.java",
       "run": "java Jurnal02",
@@ -30,7 +30,7 @@
       "timeout": 10,
       "points": 10
     },
-    {
+	{
       "name": "Jurnal02b",
       "setup": "javac Jurnal02.java",
       "run": "java Jurnal02",
@@ -40,7 +40,7 @@
       "timeout": 10,
       "points": 10
     },
-    {
+	{
       "name": "Jurnal03a",
       "setup": "javac Jurnal03.java",
       "run": "java Jurnal03",
@@ -49,7 +49,8 @@
       "comparison": "included",
       "timeout": 10,
       "points": 5
-    },{
+    },
+	{
       "name": "Jurnal03b",
       "setup": "javac Jurnal03.java",
       "run": "java Jurnal03",
@@ -58,7 +59,8 @@
       "comparison": "included",
       "timeout": 10,
       "points": 5
-    },{
+    },
+	{
       "name": "Jurnal03c",
       "setup": "javac Jurnal03.java",
       "run": "java Jurnal03",
@@ -67,7 +69,8 @@
       "comparison": "included",
       "timeout": 10,
       "points": 10
-    },{
+    },
+	{
       "name": "Jurnal03d",
       "setup": "javac Jurnal03.java",
       "run": "java Jurnal03",
@@ -81,22 +84,31 @@
       "name": "TP01a",
       "setup": "javac TP01.java",
       "run": "java TP01",
-      "input": "1",
+      "input": "januari",
       "output": "janvier",
       "comparison": "included",
       "timeout": 10,
-      "points": 5
+      "points": 2
     },
     {
       "name": "TP01b",
       "setup": "javac TP01.java",
       "run": "java TP01",
-      "input": "9",
+      "input": "september",
       "output": "septembre",
       "comparison": "included",
       "timeout": 10,
+      "points": 3
+    },{
+      "name": "TP01c",
+      "setup": "javac TP01.java",
+      "run": "java TP01",
+      "input": "oktober",
+      "output": "oktobre",
+      "comparison": "included",
+      "timeout": 10,
       "points": 5
-    },  
+    },  	  
     {
       "name": "TP02a",
       "setup": "javac TP02.java",
@@ -136,7 +148,8 @@
       "comparison": "included",
       "timeout": 10,
       "points": 2
-    },{
+    },
+	{
       "name": "TP03c",
       "setup": "javac TP03.java",
       "run": "java TP03",
